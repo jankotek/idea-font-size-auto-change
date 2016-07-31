@@ -2,7 +2,7 @@
     <id>net.kotek.multidpi</id>
     <name>Font Size Auto Change</name>
     <version>1.0</version>
-    <vendor email="jan@kotek.net" url="https://github.com/jankotek/idea-font-size-auto-change">Jan Kotek</vendor>
+    <vendor url="https://github.com/jankotek/idea-font-size-auto-change">Jan Kotek</vendor>
 
     <description><![CDATA[
       Changes Idea font size if retina display is detected. If not detected, it changes font size back.
