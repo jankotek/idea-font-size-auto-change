@@ -2,7 +2,7 @@
     <id>net.kotek.multidpi</id>
     <name>Font Size Auto Change</name>
     <version>1.0</version>
-    <vendor email="jan@kotek.net" url="http://www.kotek.net">Jan Kotek</vendor>
+    <vendor email="jan@kotek.net" url="https://github.com/jankotek/idea-font-size-auto-change">Jan Kotek</vendor>
 
     <description><![CDATA[
       Changes Idea font size if retina display is detected. If not detected, it changes font size back.
@@ -17,7 +17,7 @@
       This plugin checks every 5 seconds if any of connected displays has retina resolution.
       Newly attached displays might not be detected, so make sure Idea starts with main display enabled.
       <p/>
-      TODO use xrandr to get list of displays on Linux.
+      TODO use xrandr to get list of displays on Linux
   ]]></description>
 
     <change-notes><![CDATA[
