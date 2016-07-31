@@ -1,4 +1,4 @@
-Thos plugin changes Idea font size if retina display is detected. If not detected, it changes font size back.
+This plugin changes Idea font size if retina display is detected. If not detected, it changes font size back.
 I wrote it because I was tired to change font size, every time I plug external dispay
 <p/>
 There is no configuration window, but you can change settings by editing 'fontsize/fontsize.properties' file
