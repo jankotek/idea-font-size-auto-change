@@ -13,4 +13,3 @@ helper
 .directory
 *.log
 .gradle
-*.jar
